@@ -10,6 +10,7 @@ Jara, Felipe
 Arriagada, Jorge
 ??
 ??
+??
 Control de Versiones e Historial de Commits: El trabajo fue desarrollado en colaboración continua mediante un flujo de trabajo basado en git.
 
 # 🚀 Descripción del Proyecto
