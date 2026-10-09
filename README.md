@@ -5,6 +5,7 @@ Programa: Doctorado en Ingeniería (UV–UTA)
 Asignatura: DIG07 Investigación de Operaciones Profesor: Schulze, E. Fecha: Septiembre 2026
 
 👥 Integrantes
+
 Pasmiño, Catherinne
 
 Jara, Felipe
