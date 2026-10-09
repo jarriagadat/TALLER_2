@@ -11,7 +11,7 @@ Fecha: Septiembre 2026
 👥 Integrantes
 - Pasmiño, Catherinne
 - Jara, Felipe
-- Arriagada, Jorge
+- Arriagada, Jorge A.
 - Pizarro, Patricio
 - Andaur, Xenia 
 
