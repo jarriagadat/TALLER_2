@@ -9,7 +9,7 @@ Pasmiño, Catherinne
 Jara, Felipe
 Arriagada, Jorge
 Pizarro, Patricio
-Andaur, Xenia
+Andaur, Xenia 
 ??
 Control de Versiones e Historial de Commits: El trabajo fue desarrollado en colaboración continua mediante un flujo de trabajo basado en git.
 
