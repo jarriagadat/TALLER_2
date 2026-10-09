@@ -52,11 +52,8 @@ jupyter execute taller2_mejoramiento_suelos.ipynb
 
 Los óptimos, las cotas, los nodos y las dimensiones se reproducen exactamente. Los tiempos dependen del equipo, y el número de cortes puede variar levemente entre sistemas operativos (informe, sección 8).
 
-## 👥 Integrantes
-+ Arriagada, Jorge
-+ Pizarro, Patricio
-
-Control de versiones: el trabajo se desarrolló con un flujo basado en git; el historial de commits documenta su evolución.
+## 📝 Control de versiones
+El trabajo se desarrolló con un flujo basado en git; el historial de commits documenta su evolución.
 
 ## 🧭 Problema seleccionado
 
