@@ -1,0 +1,15 @@
+Declaración de entorno de la ejecución reportada en el informe
+(salida de la celda 2 del cuaderno)
+
+Python      3.13.9
+Pyomo       6.10.1
+HiGHS       1.15.1
+NumPy       2.3.5
+pandas      2.3.3
+Sistema     Windows 11
+Procesador  AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD
+Núcleos     16 (HiGHS configurado con un hilo)
+
+Configuración del solver, idéntica para F1 y F2:
+threads = 1, random_seed = 0, mip_rel_gap = 1e-6, time_limit = 120 s
+Repeticiones por resolución entera: 3
