@@ -54,7 +54,7 @@ Los óptimos, las cotas, los nodos y las dimensiones se reproducen exactamente. 
 
 ## 👥 Integrantes
 + Arriagada, Jorge
-+ [Integrante 2] [Repetido?]
++ Pizarro, Patricio
 
 Control de versiones: el trabajo se desarrolló con un flujo basado en git; el historial de commits documenta su evolución.
 
