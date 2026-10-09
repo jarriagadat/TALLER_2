@@ -6,10 +6,15 @@ Asignatura: DIG07 Investigación de Operaciones Profesor: Schulze, E. Fecha: Sep
 
 👥 Integrantes
 Pasmiño, Catherinne
+
 Jara, Felipe
+
 Arriagada, Jorge
+
 Pizarro, Patricio
+
 Andaur, Xenia 
+
 Control de Versiones e Historial de Commits: El trabajo fue desarrollado en colaboración continua mediante un flujo de trabajo basado en git.
 
 # 🚀 Descripción del Proyecto
