@@ -104,10 +104,12 @@ Los precios unitarios base $u$ [USD/m³ de suelo tratado] se derivan de la tabla
 | Método | FHWA (unidad original) | Supuesto de conversión | Rango [USD/m³] | $u$ usado | $f$ base [USD] |
 |---|---|---|---|---|---|
 | Compactación dinámica profunda (CDP) | 10–30 USD/yd² | 8 m tratados | 1,5–4,5 | 3,0 | 80 000 |
-| Compactación por impacto rápido (CIR) | no tabulado | menor que CDP (más somera) | – | 2,5 | 40 000 |
+| Compactación por impacto rápido (CIR) | 1–2 USD/ft² y movilización 20 000–40 000 USD (Geo-Institute, 2018)* | 4–6 m tratados | 1,8–5,4 | 2,5 | 40 000 |
 | Vibrocompactación (VCP) | 5–9 USD/pie lineal | s = 2,5–3,0 m | 2,1–5,5 | 4,0 | 120 000 |
 | Columnas de grava (CGR) | 15–60 USD/pie lineal | s = 2,0 m | 14–57 | 25 | 150 000 |
 | Jet grouting (JGR) | 250–750 USD/yd³ de columna | a_s = 0,25–0,35 | 82–343 | 180 | 220 000 |
+
+\* La CIR no figura en la tabla de la FHWA; su costo proviene de la ficha *Rapid Impact Compaction Cost Information* del Geo-Institute de la ASCE (GeoTechTools, 2018), https://www.geoinstitute.org/node/8288.
 
 **Costos fijos $f$:** la FHWA indica solo que la movilización va "desde unos cientos de dólares hasta más de 100 000 USD" según la tecnología; los valores usados son supuestos que respetan ese orden.
 
