@@ -72,19 +72,22 @@ Problema propio de la línea de investigación (ingeniería geotécnica), no una
 | Cuaderno ejecutable que reproduce la tabla del informe | `taller2_mejoramiento_suelos.ipynb` (celdas 7 a 9) |
 | Declaración de entorno | Celda 2 y `resultados/entorno.txt` |
 | Verificación de equivalencia | Algebraica (informe, sección 3) y numérica (celda 8) |
+| Respaldo de la discusión de H2 | Celda 10, `resultados/movilizacion.csv` |
 
 # 📁 Estructura del Repositorio
 ```text
 TALLER_2/
 ├── README.md                          # Cómo ejecutar, integrantes y correspondencia con el enunciado
 ├── informe_taller2.pdf                # Informe en formato de artículo (6 páginas)
-├── taller2_mejoramiento_suelos.ipynb  # Cuaderno ejecutable de principio a fin (9 celdas):
+├── taller2_mejoramiento_suelos.ipynb  # Cuaderno ejecutable de principio a fin (10 celdas):
 │                                      #   1 instalación · 2 entorno · 3 parámetros · 4 generador
 │                                      #   5 modelo F1/F2 · 6 medición · 7 experimento
 │                                      #   8 equivalencia · 9 tablas y figuras
+│                                      #   10 análisis complementario (movilización)
 └── resultados/                        # Ejecución reportada en el informe
     ├── entorno.txt                    # Declaración de entorno
-    └── resultados.csv                 # Siete indicadores, 15 instancias × 2 formulaciones
+    ├── resultados.csv                 # Siete indicadores, 15 instancias × 2 formulaciones
+    └── movilizacion.csv               # Participación de la movilización y brecha de F1 (celda 10)
 ```
 
 Al ejecutar el cuaderno, `resultados/` se regenera completo: además de `resultados.csv`, se agregan la verificación de equivalencia, las tablas 1 y 2 del informe en CSV y las figuras.
@@ -119,4 +122,5 @@ Los precios unitarios base $u$ [USD/m³ de suelo tratado] se derivan de la tabla
 - internacional: 1,8 y 0,90.
 
 Cada oferta varía además ±10 % al azar, con la semilla de la instancia.
+
 
