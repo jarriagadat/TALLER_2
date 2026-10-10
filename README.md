@@ -2,6 +2,7 @@
 DIG07 Taller 2. Reformulación de un modelo entero mixto
 
 Programa: Doctorado en Ingeniería (UV–UTA)
+
 Asignatura: DIG07 Investigación de Operaciones
 
 Profesor: Schulze, E.
@@ -19,7 +20,7 @@ Control de Versiones e Historial de Commits: El trabajo fue desarrollado en cola
 
 ## 🚀 Descripción del Proyecto
 
-Este repositorio contiene el estudio computacional de una reformulación sobre un modelo de programación lineal entera mixta (MILP) para **seleccionar métodos de mejoramiento de arenas sueltas**, con aplicación conceptual al terreno Las Salinas (Viña del Mar).
+Este repositorio contiene el estudio computacional de una reformulación sobre un modelo de programación lineal entera mixta (MILP) para **seleccionar métodos de mejoramiento de arenas sueltas**, con una aplicación de Ingeniería Geotécnica al Proyecto de remediación en el sector de Las Salinas (Viña del Mar).
 
 El sitio se divide en zonas, y el modelo asigna a cada una un método de mejoramiento aplicable a arenas (Han, 2015) y un contratista. Minimiza la suma de los costos fijos de movilización y los costos de tratamiento. Se comparan dos formulaciones equivalentes:
 
@@ -56,7 +57,9 @@ El trabajo se desarrolló con un flujo basado en git; el historial de commits do
 
 ## 🧭 Problema seleccionado
 
-Problema propio de la línea de investigación (ingeniería geotécnica), no una de las alternativas A, B o C del enunciado. **Contexto:** el proyecto de saneamiento del terreno Las Salinas, de 15,8 ha, remueve y vuelve a colocar del orden de 10⁶ m³ de arena bajo la napa (Golder Associates, 2018). La edificación posterior requiere densificar ese terreno. Las instancias son sintéticas e inspiradas en ese contexto; no son datos del proyecto.
+Problema propuesto de la línea de investigación (Situaciones extremas en Ingeniería geotécnica), no una de las alternativas A, B o C del enunciado.
+
+**Contexto:** el proyecto de saneamiento del terreno Las Salinas, de 15,8 ha, remueve y vuelve a colocar del orden de 10⁶ m³ de arena bajo la napa (Golder Associates, 2018). Las construcciones y edificación posterior requiere densificar ese terreno según distintas técnicas de mejoramiento de suelos. Las instancias son sintéticas e inspiradas en ese contexto; no son datos del proyecto.
 
 ## 📋 Correspondencia con el enunciado (sección 6, Producto de entrega)
 
