@@ -2,7 +2,6 @@
 DIG07 Taller 2. Reformulación de un modelo entero mixto
 
 Programa: Doctorado en Ingeniería (UV–UTA)
-
 Asignatura: DIG07 Investigación de Operaciones
 
 Profesor: Schulze, E.
